@@ -87,19 +87,6 @@
        android:adjustViewBounds="true" 
        android:src="@drawable/dlm"
        android:contentDescription="Podcast Picture" />
-   
-	   <TextView
-	    android:id="@+id/created_by"
-	    android:layout_width="fill_parent"
-	    android:layout_height="wrap_content"
-	    android:layout_gravity="center"
-	    android:gravity="center"
-	    android:text="Fan made app created by: Anthony Delprete"	    
-	    android:fontFamily="sans-serif-condensed"
-	    android:textColor="#ff000000"
-	    android:textSize="12.0dp" />
-		   
-	
 	
 	</LinearLayout>
 	<TextView
