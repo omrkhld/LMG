@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Omar\Documents\LMG\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Omar\Documents\LMG\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_b7b26d6655cb2f5a4c96fe41b09f9ebf30af4df3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Omar\Documents\LMG\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Omar\Documents\LMG\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_dee5e3eee97ed7dfbba5c775f7e84dd665e9df44.jar" />
+    </item>
+    <item
+        jar="C:\Users\Omar\Documents\LMG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Omar\Documents\LMG\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_81f4e906ee646d5124ca6b5d518afd408cd9c31f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Omar\Documents\LMG\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Omar\Documents\LMG\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_a458c60bd208edf9fabdd95495a0e2a415d8c978.jar" />
+    </item>
+    <item
         jar="C:\Users\Omar\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\Omar\Documents\LeonardMaltinGame\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6f7ce94d158b5afcfe52a8dcea8b90700a054e81.jar" />
-    </item>
-    <item
-        jar="C:\Users\Omar\Documents\LeonardMaltinGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\Omar\Documents\LeonardMaltinGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_b9839cab2d7a557f5b538e009533b9a0e7e15738.jar" />
-    </item>
-    <item
-        jar="C:\Users\Omar\Documents\LeonardMaltinGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\Omar\Documents\LeonardMaltinGame\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_ef610fe5212dbd49e687d6ebd31b96baf099a15c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Omar\Documents\LeonardMaltinGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\Omar\Documents\LeonardMaltinGame\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_d7f8d4faa0e5fa5cd696803f0c8d452d2f865526.jar" />
-    </item>
-    <item
-        jar="C:\Users\Omar\Documents\LeonardMaltinGame\app\libs\picasso-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
-        <dex dex="C:\Users\Omar\Documents\LeonardMaltinGame\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_b1124c9625819efc836d8a3ab72c774320f4e0ab.jar" />
+        <dex dex="C:\Users\Omar\Documents\LMG\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6f7ce94d158b5afcfe52a8dcea8b90700a054e81.jar" />
     </item>
 
 </items>
