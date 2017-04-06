@@ -48,6 +48,30 @@
         ]
     },
     {
+        "outputFile": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\values-h720dp\\values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 66,
+                        "endOffset": 294
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {

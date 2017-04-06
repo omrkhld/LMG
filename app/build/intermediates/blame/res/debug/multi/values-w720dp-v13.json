@@ -48,6 +48,30 @@
         ]
     },
     {
+        "outputFile": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\values-w720dp\\values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 76,
+                        "endOffset": 303
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
         "map": [
             {

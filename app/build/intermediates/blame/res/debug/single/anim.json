@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\Omar\\Documents\\Leonard-Maltin-Game-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Omar\\Documents\\Leonard-Maltin-Game-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\Omar\\Documents\\Leonard-Maltin-Game-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Omar\\Documents\\Leonard-Maltin-Game-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
@@ -21,7 +21,7 @@
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
@@ -45,7 +45,7 @@
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
@@ -57,7 +57,7 @@
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\Leonard-Maltin-Game-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
@@ -73,15 +73,15 @@
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LeonardMaltinGame\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
@@ -89,7 +89,7 @@
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\Leonard-Maltin-Game-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -97,11 +97,11 @@
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\Leonard-Maltin-Game-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Omar\\Documents\\LMG\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+        "source": "C:\\Users\\Omar\\.android\\build-cache\\fb2798e4310ab065043c8c68dc4ab0f8e2d27287\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Users\\Omar\\Documents\\Leonard-Maltin-Game-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
